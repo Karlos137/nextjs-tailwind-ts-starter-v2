@@ -1,7 +1,7 @@
 {
   "name": "nextjs-tailwind-ts-starter-v2",
   "version": "2.0.0",
-  "description": "A starter for Next.js 13 and TailwindCSS",
+  "description": "A starter for Next.js 13 and Tailwind CSS",
   "author": {
     "name": "Karel Kvítek",
     "email": "karel.kvitek@seznam.cz",

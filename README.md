@@ -7,7 +7,7 @@ Keywords:
 - TypeScript
 - React
 - Next.js
-- TailwindCSS
+- Tailwind CSS
 - ESLint
 - Prettier
 
